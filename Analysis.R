@@ -4,3 +4,5 @@ plot(x = x, y = y)
 X |> summary()
 X |> median()
 X |> mean()
+
+#alex stinks
